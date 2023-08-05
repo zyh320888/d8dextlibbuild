@@ -32,3 +32,7 @@ module.exports = index;
 // 到d8dcloud.com IDE 后台服务中import
 const aws-sdk = await Import('aws-sdk')
 ```
+
+有问题请扫码联系
+
+![企微二维码](https://d8doss.y2o.me/weworkqrcode.png)
